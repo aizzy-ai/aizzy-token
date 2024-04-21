@@ -30,7 +30,7 @@ Comprehensive breakdown of the AIZ token utility.
 
 The native and cryptographically-secure, protocol utility token of the Aizzy.ai Ecosystem is the transferrable representation of attributed value within the ecosystem (ticker - $AIZ).
 
-## Built on BASE
+## Built on [BASE](https://www.base.org) 
 
 Base is built to be the onchain home for Coinbase products, users, and assets, as well as an open ecosystem where anyone can build for them, and easily reach the user base of Coinbase. We believe that AI will revolutionize how people create, build and work, and that the future of AI should be open and globally accessible. Coinbase is bringing the early majority to the world of Web3, and by building on Base we believe we are positioned to reach this majority and bring them to a fair and open world of AI.
 
