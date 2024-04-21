@@ -1,6 +1,20 @@
+-   OVERVIEW
+    
+    -   [About $AIZ](#about)
+    -   [Mission](https://aizzy-ai.gitbook.io/aizzy.ai-docs/overview/mission)
+        
+-   COMMUNITY AND TOKENOMICS
+    
+    -   [$AIZ Token Utility](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-token-utility)
+    -   [$AIZ Token Supply](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-token-supply)
+    -   [$AIZ Ecosystem](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem)
+    -   [Roadmap](#roadmap)
+    
+-   LEGAL
+    
+    -   [Disclaimer](https://aizzy-ai.gitbook.io/aizzy.ai-docs/legal/disclaimer)
 
-
-# Aizzy Token :: $AIZ
+# <a name="about"></a>Aizzy Token :: $AIZ
 
 ## Decentralized AI
 
@@ -255,7 +269,7 @@ A circular ecosystem that provides fair value exchange from users to providers o
 
 ![](https://aizzy-ai.gitbook.io/~gitbook/image?url=https:%2F%2F691168082-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHedsBS4QB5oRbOf4Fhe1%252Fuploads%252FJNC7Gj1qUdNjvsYQSwQq%252FTokenomics%2520Drawing_large%2520letters.png%3Falt=media%26token=7a335138-d80a-4df4-a129-c42f8bcb3521&width=768&dpr=4&quality=100&sign=b708beafd0f62a76e438ea022d6b5621990fb7a2eaae1ea7e1f32505cb98d9dc)
 
-# Roadmap
+# <a id="roadmap"></a>Roadmap
 
 An outline of the Product Roadmap, our achievements to date and plans for building the Aizzy.ai Ecosystem.
 
