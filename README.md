@@ -1,13 +1,8 @@
--   OVERVIEW
-    
-    -   [About $AIZ](#about)
-        
--   COMMUNITY AND TOKENOMICS
-    
-    -   [$AIZ Token Utility](#utility)
-    -   [$AIZ Token Supply](#supply)
-    -   [$AIZ Ecosystem](#ecosystem)
-    -   [Roadmap](#roadmap)
+
+
+| [About $AIZ](#about) | [$AIZ Token Utility](#utility) | [$AIZ Token Supply](#supply) | [$AIZ Ecosystem](#ecosystem) |  [Roadmap](#roadmap) |
+|--|--|--|--|--|
+
     
 # <a id="about"></a>Aizzy Token :: $AIZ
 
