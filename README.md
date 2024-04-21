@@ -1,20 +1,15 @@
 -   OVERVIEW
     
     -   [About $AIZ](#about)
-    -   [Mission](https://aizzy-ai.gitbook.io/aizzy.ai-docs/overview/mission)
         
 -   COMMUNITY AND TOKENOMICS
     
-    -   [$AIZ Token Utility](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-token-utility)
-    -   [$AIZ Token Supply](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-token-supply)
-    -   [$AIZ Ecosystem](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem)
+    -   [$AIZ Token Utility](#utility)
+    -   [$AIZ Token Supply](#supply)
+    -   [$AIZ Ecosystem](#ecosystem)
     -   [Roadmap](#roadmap)
     
--   LEGAL
-    
-    -   [Disclaimer](https://aizzy-ai.gitbook.io/aizzy.ai-docs/legal/disclaimer)
-
-# <a name="about"></a>Aizzy Token :: $AIZ
+# <a id="about"></a>Aizzy Token :: $AIZ
 
 ## Decentralized AI
 
@@ -40,7 +35,7 @@ Base is built to be the onchain home for Coinbase products, users, and assets, a
 
 Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain.
 
-## The Utility of $AIZ
+## <a id="utility"></a>The Utility of $AIZ
 
 The $AIZ token represents the transferrable, fair value exchange within the Aizzy.ai ecosystem. Holders of AIZ get access to several unique benefits within the ecosystem:
 
@@ -64,7 +59,7 @@ The $AIZ utility token represents the transfer of fair value in the Aizzy.ai eco
 For more details on how AIZ powers the exchange of fair value in the Aizzy.ai ecosystem see $AIZ Ecosystem.
 
 
-# $AIZ Token Supply
+# <a id="supply"></a>$AIZ Token Supply
 A comprehensive breakdown of the AIZ token supply, emissions and distribution.
 
 > Fixed Total Supply: 1,000,000,000
@@ -183,7 +178,7 @@ The AIZ Token will distribute 100% of the AIZ Supply over 5 years, the schedule 
 >https://docs.google.com/spreadsheets/d/1MzOqdcNtpwYiLV43rYT8_E_JtLXm7O5Q4wXeb8c5nis/edit?usp=sharing
 
 
-# $AIZ Ecosystem
+# <a id="ecosystem"></a>$AIZ Ecosystem
 
 A comprehensive breakdown of the mechanics that drive the fair and decentralized exchange of value in the Aizzy.ai Ecosystem.
 
@@ -269,7 +264,7 @@ A circular ecosystem that provides fair value exchange from users to providers o
 
 ![](https://aizzy-ai.gitbook.io/~gitbook/image?url=https:%2F%2F691168082-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHedsBS4QB5oRbOf4Fhe1%252Fuploads%252FJNC7Gj1qUdNjvsYQSwQq%252FTokenomics%2520Drawing_large%2520letters.png%3Falt=media%26token=7a335138-d80a-4df4-a129-c42f8bcb3521&width=768&dpr=4&quality=100&sign=b708beafd0f62a76e438ea022d6b5621990fb7a2eaae1ea7e1f32505cb98d9dc)
 
-# <a id="roadmap"></a>Roadmap
+# <a id="roadmap" name="roadmap"></a>Roadmap
 
 An outline of the Product Roadmap, our achievements to date and plans for building the Aizzy.ai Ecosystem.
 
