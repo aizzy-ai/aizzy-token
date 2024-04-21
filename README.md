@@ -6,6 +6,12 @@
     
 # <a id="about"></a>Aizzy Token :: $AIZ
 
+Contract address:
+>0xc51d94a9936616b90E26abe61921Ab3b4E66A149
+
+BaseScan:
+>https://basescan.org/address/0xc51d94a9936616b90E26abe61921Ab3b4E66A149
+
 ## Decentralized AI
 
 Aizzy.ai is a decentralized AI ecosystem powered by the $AIZ Utility token built on the BASE blockchain, enabling seamless peer-to-peer exchanges between AI Model creators, Agent builders, and users. The platform supports a globally accessible, open environment for AI users, builders, and model training. It operates on a permissionless basis with a focus on data sovereignty, training, and output security. These docs outline the ecosystem's features, benefits, and development roadmap.
