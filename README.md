@@ -282,60 +282,60 @@ _Note: The roadmap for Aizzy.ai reflects our current product vision and anticipa
 
 ### Launch Aizzy.ai Platform
 
--   Conceptualize and design Aizzy.ai platform
+- [x]  Conceptualize and design Aizzy.ai platform
     
--   Launch Aizzy.ai platform with >10 Agents
+- [x]  Launch Aizzy.ai platform with >10 Agents
     
--   Build Aizzy.ai Community and Social media channels
+- [x]  Build Aizzy.ai Community and Social media channels
     
 
 ### Grow Aizzy.ai Platform
 
--   Grow user base of Aizzy.ai, freemium and paid
+-  [x] Grow user base of Aizzy.ai, freemium and paid
     
-    -   Currently at >280k Subscribers and >30k MAU
+    -  [x] Currently at >280k Subscribers and >30k MAU
         
     
--   Build PDF Reader and Voice Generative APIs for Platform Agents
+-  [x] Build PDF Reader and Voice Generative APIs for Platform Agents
     
--   Add to available agents >20
+-  [x] Add to available agents >20
     
--   Connect to localized payment options (e.g. PIX ) as well as card options
+-  [x] Connect to localized payment options (e.g. PIX ) as well as card options
     
 
 ### Launch AIZ Token
 
--   **Whitepaper Launch:** Design and Document Tokenomics and Mechanics for a decentralized open AI Ecosystem
+-  [x] **Whitepaper Launch:** Design and Document Tokenomics and Mechanics for a decentralized open AI Ecosystem
     
--   **AIZ Token Generation Event**: Launch Token Sale on BASE Network
+-  [ ] **AIZ Token Generation Event**: Launch Token Sale on BASE Network
     
--   **Launch of AIZ Payment:** allow users to pay a discounted rate for Aizzy.ai Platform using the AIZ token.
+-  [ ] **Launch of AIZ Payment:** allow users to pay a discounted rate for Aizzy.ai Platform using the AIZ token.
     
--   **Initial Liquidity Pools**: Launch Initial Liquidity Pool for AIZ Token to allow for trading of AIZ.
+-  [ ] **Initial Liquidity Pools**: Launch Initial Liquidity Pool for AIZ Token to allow for trading of AIZ.
     
 
 ### Feature Development
 
--   Continue UI and UX improvements Aizzy.ai platform to increase conversion and retention of fiat and AIZ users.
+-  [ ] Continue UI and UX improvements Aizzy.ai platform to increase conversion and retention of fiat and AIZ users.
     
--   Launch further local currency and payment options for fast growing jurisdictions.
+-  [ ] Launch further local currency and payment options for fast growing jurisdictions.
     
--   Launch AI Builder Marketplace and onboard AI Agent Builders to the Aizzy.ai Ecosystem
+-  [ ] Launch AI Builder Marketplace and onboard AI Agent Builders to the Aizzy.ai Ecosystem
     
--   Launch Operator Marketplace and onboard further AI Model Operators to the Aizzy.ai Ecosystem
+-  [ ] Launch Operator Marketplace and onboard further AI Model Operators to the Aizzy.ai Ecosystem
     
 
 ### Ecosystem Development
 
--   **Testnet Launch:** Launch Operations Treasury and rewards pools to Testnet
+-  [ ] **Testnet Launch:** Launch Operations Treasury and rewards pools to Testnet
     
--   **Mainnet Launch**: Launch Operations Treasury and rewards Pools to Mainnet.
+-  [ ] **Mainnet Launch**: Launch Operations Treasury and rewards Pools to Mainnet.
     
 
 ### Further Feature Development
 
--   Create Open API library for Builders, Operators and Users to access the Aizzy.ai platform via their own platforms.
+-  [ ] Create Open API library for Builders, Operators and Users to access the Aizzy.ai platform via their own platforms.
     
--   Further Platform API features for Builders to include in their Agents
+-  [ ] Further Platform API features for Builders to include in their Agents
     
--   Multi-Agent Workflow builders for Agent Builders
+-  [ ] Multi-Agent Workflow builders for Agent Builders
