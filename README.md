@@ -1,4 +1,5 @@
 
+
 # Aizzy Token :: $AIZ
 
 ## Decentralized AI
@@ -165,7 +166,157 @@ The Founding Team allocation represents the core Aizzy.ai team's holdings of AIZ
 
 The AIZ Token will distribute 100% of the AIZ Supply over 5 years, the schedule can be seen in the Google Sheet below, with a representative graph also provided:
 
-https://docs.google.com/spreadsheets/d/1MzOqdcNtpwYiLV43rYT8_E_JtLXm7O5Q4wXeb8c5nis/edit?usp=sharing
+>https://docs.google.com/spreadsheets/d/1MzOqdcNtpwYiLV43rYT8_E_JtLXm7O5Q4wXeb8c5nis/edit?usp=sharing
 
 
+# $AIZ Ecosystem
 
+A comprehensive breakdown of the mechanics that drive the fair and decentralized exchange of value in the Aizzy.ai Ecosystem.
+
+![enter image description here](https://aizzyai.s3.sa-east-1.amazonaws.com/image.webp)
+
+## Why AIZ Ecosystem
+
+The careful allocation, effective supply management, and innovative economic structure of AIZ tokens not only fuel the ecosystem, but also provide incentives for all participants, including creators, developers, and model operators, to shape a fair and forward-thinking AI economy.
+
+We believe that AI should be open and accessible to all. The AIZ Ecosystem fairly rewards participation and value add to the ecosystem.
+
+**Permissionless AI Creation -** Open and accessible AI marketplace for users to find the best AI Agents, using the most advanced models, to enhance their creative endeavors, business and study
+
+**Fair Value Exchange -** One group should not capture all the value of human x AI creativity. The Aizzy.ai Ecosystem fairly rewards providers of AI Models and Builders of AI use cases (Agents).
+
+**Security and Transparency -** Committed to enhancing security and data sovereignty from training data to AI output.
+
+### The Basics - A Fair Value Exchange
+
+The Aizzy.ai Ecosystem has been designed to provide a fair exchange of value in a cryptographically decentralized and fair manner.
+
+Users of utility, such as our >250k users, pay for the use of Aizzy.ai in AIZ Token.
+
+Providers of utility, such as AI Model Operators, AI Agent Builders and the Platform, are rewarded in AIZ.
+
+Because Aizzy.ai is a live product providing hundreds of thousands of users with value, the AIZ token is not just a reward token, but a utility token powering a circular economy. Constant revenue in the form of AIZ from users is distributed to value providers who can then sell the token back to current and future users.
+
+### Operations Treasury
+
+> An innovative and revolutionary blockchain treasury that distributes AIZ fairly to each participant in the AIZ Ecosystem
+
+The Operations Treasury is a unique and innovative application of a Protocol Treasury, created to **fairly distribute the value captured from users** of the Aizzy.ai platform to the providers of value to those users.
+
+All AIZ Revenue is collected in the Operations Treasury every Epoch. The collected AIZ Tokens are then distributed to the specific rewards pools for each contributor of value to the ecosystem.
+
+The % split of distribution will be managed initially by the Aizzy.ai platform to ensure the right incventives are at work. The AIZ Community will have the option to participate in the setting of this distribution.
+
+A portion if the collected AIZ each epoch will be sent to a burn address, ensuring there is **deflationary pressure on the AIZ token**.
+
+### Builders Reward Pools
+
+The **Builders Reward Pool**  is designed to distribute AIZ to the builders of AI Agents on the Aizzy.ai ecosystem. The Reward Pool will have an initial allocation of 5% of total supply, released linearly over the first year from the marketplace launch, to highly incentivize early adopters of the builder marketplace.
+
+We consider the AI Agent Builders as the builders of the Product used by our Aizzy.ai customers, and they should be primarily rewarded from the revenue generated from customers by their Agents. As such the Builder Reward Pool is a primary beneficiary from the Operators Reward Pool.
+
+The entirety of AIZ Revenue sent to the Builders Reward Pool from the Operations Treasury (plus any vested form the initial supply) is distributed at the end of every epoch. The amount distributed to each builder is pro-rated to the use of their agents by the community.
+
+For details see diagram under [The Ecosystem](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem#the-ecosystem) and [Operations Treasury](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem#operations-treasury)
+
+### Operator Reward Pool
+
+The **Operators Reward Pool**  is designed to distribute AIZ to the providers of AI Models to the Aizzy Ecosystem. The Reward Pool will have an initial allocation of 5% of total supply, released linearly over 4.5 years from the marketplace launch to provide a steady incentive to Model Operators.
+
+We consider the providers of the Models to be a vital utility provider to the Agent Builders and the ecosystem, and should be rewarded from the revenue generated by the Builders on the ecosystem that use their models. As such the Operator Rewards pool is a beneficiary of the Operations Treasury.
+
+In contrast to the Builders Reward Pool, the AIZ in the Operators Reward Pool is distributed more evenly, as a % of the total in the rewards pool each epoch. This is to ensure the Ai model operators who have fixed costs, have a more steady and reliable form of incentive. The amount distributed to each Operator is pro-rated to the number of calls made by agents to their model.
+
+For details see diagram under [The Ecosystem](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem#the-ecosystem) and [Operations Treasury](https://aizzy-ai.gitbook.io/aizzy.ai-docs/community-and-tokenomics/usdaiz-ecosystem#operations-treasury)
+
+### Fiat Operations
+
+![](https://aizzy-ai.gitbook.io/~gitbook/image?url=https:%2F%2F691168082-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHedsBS4QB5oRbOf4Fhe1%252Fuploads%252FjymuHRqdCS90FqrJTGVN%252FFiat%2520Operations_V2.0.png%3Falt=media%26token=a203251c-02e8-40bf-a783-9c83eb88eb82&width=768&dpr=4&quality=100&sign=8f4f1556565312e527b30a9e1497436d9a22034cfc351fe4561fca80385bdaf7)
+
+Aizzy.ai's mission is to make AI access universally accessible, and we currently have significant user base that pays in fiat using their local payment methods. As such we will maintain the ability to access Aizzy.ai using fiat to keep the platform as accessible as possible, and ensure a steady stream of fiat revenue into the ecosystem. There are several options for this revenue, that will evolve as Aizzy.ai evolves into a fully decentralized organization.
+
+-   Running and development cost reimbursement to the Platform Provider to reduce reliance on selling treasury and decreasing sell pressure on AIZ.
+    
+-   Purchasing AIZ on the open market, creating buy side pressure and:
+    
+    -   Distributing AIZ to the Fiat users to provide a self funded cashback rewards program. Incentivizing growht of community and increased distributed ownership of AIZ.
+        
+    -   Sending AIZ to the Operations Treasury for distribution.
+        
+    -   Sending AIZ to replenish Community Treasury.
+        
+    -   Sending to a Burn Address providing deflationary pressure to the AIZ token.
+        
+    
+
+### The Ecosystem
+
+A circular ecosystem that provides fair value exchange from users to providers of utility, powering open and globally accessible AI.
+
+![](https://aizzy-ai.gitbook.io/~gitbook/image?url=https:%2F%2F691168082-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHedsBS4QB5oRbOf4Fhe1%252Fuploads%252FJNC7Gj1qUdNjvsYQSwQq%252FTokenomics%2520Drawing_large%2520letters.png%3Falt=media%26token=7a335138-d80a-4df4-a129-c42f8bcb3521&width=768&dpr=4&quality=100&sign=b708beafd0f62a76e438ea022d6b5621990fb7a2eaae1ea7e1f32505cb98d9dc)
+
+# Roadmap
+
+An outline of the Product Roadmap, our achievements to date and plans for building the Aizzy.ai Ecosystem.
+
+_Note: The roadmap for Aizzy.ai reflects our current product vision and anticipated milestones, however, it is subject to change based on the evolving priorities and insights of our team. While we strive to achieve the goals outlined, we do not guarantee that all aspects will be delivered as initially planned. Our commitment is to adapt and refine our approach to meet the highest standards of innovation and utility for our community, ensuring the long-term success of the Aizzy.ai Ecosystem._
+
+### Launch Aizzy.ai Platform
+
+-   Conceptualize and design Aizzy.ai platform
+    
+-   Launch Aizzy.ai platform with >10 Agents
+    
+-   Build Aizzy.ai Community and Social media channels
+    
+
+### Grow Aizzy.ai Platform
+
+-   Grow user base of Aizzy.ai, freemium and paid
+    
+    -   Currently at >280k Subscribers and >30k MAU
+        
+    
+-   Build PDF Reader and Voice Generative APIs for Platform Agents
+    
+-   Add to available agents >20
+    
+-   Connect to localized payment options (e.g. PIX ) as well as card options
+    
+
+### Launch AIZ Token
+
+-   **Whitepaper Launch:** Design and Document Tokenomics and Mechanics for a decentralized open AI Ecosystem
+    
+-   **AIZ Token Generation Event**: Launch Token Sale on BASE Network
+    
+-   **Launch of AIZ Payment:** allow users to pay a discounted rate for Aizzy.ai Platform using the AIZ token.
+    
+-   **Initial Liquidity Pools**: Launch Initial Liquidity Pool for AIZ Token to allow for trading of AIZ.
+    
+
+### Feature Development
+
+-   Continue UI and UX improvements Aizzy.ai platform to increase conversion and retention of fiat and AIZ users.
+    
+-   Launch further local currency and payment options for fast growing jurisdictions.
+    
+-   Launch AI Builder Marketplace and onboard AI Agent Builders to the Aizzy.ai Ecosystem
+    
+-   Launch Operator Marketplace and onboard further AI Model Operators to the Aizzy.ai Ecosystem
+    
+
+### Ecosystem Development
+
+-   **Testnet Launch:** Launch Operations Treasury and rewards pools to Testnet
+    
+-   **Mainnet Launch**: Launch Operations Treasury and rewards Pools to Mainnet.
+    
+
+### Further Feature Development
+
+-   Create Open API library for Builders, Operators and Users to access the Aizzy.ai platform via their own platforms.
+    
+-   Further Platform API features for Builders to include in their Agents
+    
+-   Multi-Agent Workflow builders for Agent Builders
