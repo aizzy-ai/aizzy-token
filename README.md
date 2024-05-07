@@ -93,10 +93,7 @@ https://docs.google.com/spreadsheets/d/1MzOqdcNtpwYiLV43rYT8_E_JtLXm7O5Q4wXeb8c5
 
 The public sale represents the initial launch of the AIZ Utility Token to the public. The sale will be conducted in stages as per below:
 
-- Stage 1: $0.08 USD per AIZ
-- Stage 2: $0.09 USD per AIZ
-- Stage 3: $0.10 USD per AIZ
-- Stage 4: $0.11 USD per AIZ
+- $0.08 USD per AIZ
 
 > Public Sale Total Supply = 10% (100 million AIZ)
 
