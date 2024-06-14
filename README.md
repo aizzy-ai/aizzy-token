@@ -51,7 +51,7 @@ The $AIZ token represents the transferrable, fair value exchange within the Aizz
 
 - The usage of Aizzy.ai agents and AI models will always be paid when purchased using the AIZ token.
 - Exclusive benefits, early access to new and premium AI Models and AI Agents will only be available to holders and users of the AIZ token.
-- Participate in governance decisions, including new AI model approvals and validation, usage and allocation of the community Treasury, development roadmap, and updates to the protocol and Operations Treasury settings and allocations.
+- Participate in governance decisions, including new AI model approvals and validation, usage and allocation of the community Treasury, development roadmap, and updates to the system and Operations Treasury settings and allocations.
 
 ### Builders
 
