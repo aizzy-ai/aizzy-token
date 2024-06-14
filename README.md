@@ -1,5 +1,3 @@
-Sure, here's the revised version without the term "protocol":
-
 | [About $AIZ](#about) | [$AIZ Token Utility](#utility) | [$AIZ Token Supply](#supply) | [$AIZ Ecosystem](#ecosystem) |  [Roadmap](#roadmap) |
 |--|--|--|--|--|
 
