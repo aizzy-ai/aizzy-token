@@ -1,4 +1,4 @@
-
+Sure, here's the revised version without the term "protocol":
 
 | [About $AIZ](#about) | [$AIZ Token Utility](#utility) | [$AIZ Token Supply](#supply) | [$AIZ Ecosystem](#ecosystem) |  [Roadmap](#roadmap) |
 |--|--|--|--|--|
@@ -37,7 +37,7 @@ At Aizzy.ai, our mission is to revolutionize the way AI is accessed and utilized
 
 Comprehensive breakdown of the AIZ token utility.
 
-The native and cryptographically-secure, protocol utility token of the Aizzy.ai Ecosystem is the transferrable representation of attributed value within the ecosystem (ticker - $AIZ).
+The native and cryptographically-secure, utility token of the Aizzy.ai Ecosystem is the transferrable representation of attributed value within the ecosystem (ticker - $AIZ).
 
 ## Built on [BASE](https://www.base.org)
 
@@ -57,10 +57,10 @@ The $AIZ token represents the transferrable, fair value exchange within the Aizz
 
 ### Builders
 
-- List Agents on the Aizzy.ai ecosystem using AIZ, and earn revenue when your agents are utilized by our community. Builders will pay all listing fees in AIZ, and earn all protocol revenue in AIZ.
+- List Agents on the Aizzy.ai ecosystem using AIZ, and earn revenue when your agents are utilized by our community. Builders will pay all listing fees in AIZ, and earn all revenue in AIZ.
 - Access advanced models and API features for your Agents using the AIZ token.
 - AI Model Operators
-- List your Models on the Aizzy.ai Ecosystem and earn revenue from their usage by popular AI Agents on the Protocol. Operators will pay all listing fees in AIZ, and earn all revenue in AIZ.
+- List your Models on the Aizzy.ai Ecosystem and earn revenue from their usage by popular AI Agents on the Platform. Operators will pay all listing fees in AIZ, and earn all revenue in AIZ.
 - Access unique training data sets provided by the community, or train your models on real human users within the platform.
 
 The $AIZ utility token represents the transfer of fair value in the Aizzy.ai ecosystem, rewarding participants and providers of value to our community as they revolutionize their creative endeavors, businesses, and study.
