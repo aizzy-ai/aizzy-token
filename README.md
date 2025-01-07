@@ -1,14 +1,21 @@
-| [About $AIZ](#about) | [$AIZ Token Utility](#utility) | [$AIZ Token Supply](#supply) | [$AIZ Ecosystem](#ecosystem) |  [Roadmap](#roadmap) |
-|--|--|--|--|--|
+| [About $AIZ](#about) | [$AIZ Token Utility](#utility) | [$AIZ Token Supply](#supply) |
+|--|--|--|
 
     
-# <a id="about"></a>Aizzy Token :: $AIZ
+# <a id="about"></a>~~Aizzy Token on Base~~ :: $AIZ
 
 Contract address:
->0xc51d94a9936616b90E26abe61921Ab3b4E66A149
+>~~0xc51d94a9936616b90E26abe61921Ab3b4E66A149~~
 
 BaseScan:
->https://basescan.org/address/0xc51d94a9936616b90E26abe61921Ab3b4E66A149
+>~~https://basescan.org/address/0xc51d94a9936616b90E26abe61921Ab3b4E66A149~~
+
+***#AIZ on Base will be destroyed!***
+
+> Migrate your token to solana.
+
+# <a id="about"></a>Aizzy Token on SOL :: $AIZ
+
 
 Aizzy.ai Web Site:
 >https://aizzy.ai
@@ -17,12 +24,12 @@ Aizzy.ai Web Site:
 
 Aizzy.ai is an AI-powered tool designed to enhance productivity and efficiency with a strong focus on anonymity and privacy. Here’s what we offer:
 
+- **Anonymous AI Agents**: Ai agents on SUI chain! You will be able to trade your agent as an NFT.
 - **Anonymous Document Handling**: Interact with PDFs, web content, and videos anonymously. Annotate, highlight, extract, and summarize information while keeping your activities private.
 - **Private Smart Search**: Quickly find specific information within documents and media, ensuring your searches are private and secure.
 - **Anonymous Virtual Assistance**: Summarize content from videos, websites, and PDFs efficiently and anonymously.
 - **Private AI-Enabled Content Creation**: Create engaging material such as marketing copy and blog posts while protecting your intellectual property.
 - **Anonymous Additional Tools**: Features like AI-generated text detection, language translation, and file conversion maintain user anonymity and data security.
-- **Private Group Chats**: Collaborate anonymously with friends, colleagues, or teams, sharing ideas and documents securely within the platform.
 
 Aizzy.ai streamlines workflows for students, professionals, and content creators, making document handling interactive and information retrieval straightforward, all while protecting your data and identity.
 
@@ -37,12 +44,6 @@ Comprehensive breakdown of the AIZ token utility.
 
 The native and cryptographically-secure, utility token of the Aizzy.ai Ecosystem is the transferrable representation of attributed value within the ecosystem (ticker - $AIZ).
 
-## Built on [BASE](https://www.base.org)
-
-Base is built to be the onchain home for Coinbase products, users, and assets, as well as an open ecosystem where anyone can build for them, and easily reach the user base of Coinbase. We believe that AI will revolutionize how people create, build, and work, and that the future of AI should be open and globally accessible. Coinbase is bringing the early majority to the world of Web3, and by building on Base we believe we are positioned to reach this majority and bring them to a fair and open world of AI.
-
-Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain.
-
 ## <a id="utility"></a>The Utility of $AIZ
 
 The $AIZ token represents the transferrable, fair value exchange within the Aizzy.ai ecosystem. Holders of AIZ get access to several unique benefits within the ecosystem:
@@ -51,7 +52,6 @@ The $AIZ token represents the transferrable, fair value exchange within the Aizz
 
 - The usage of Aizzy.ai agents and AI models will always be paid when purchased using the AIZ token.
 - Exclusive benefits, early access to new and premium AI Models and AI Agents will only be available to holders and users of the AIZ token.
-- Participate in governance decisions, including new AI model approvals and validation, usage and allocation of the community Treasury, development roadmap, and updates to the system and Operations Treasury settings and allocations.
 
 ### Builders
 
@@ -68,10 +68,10 @@ For more details on how AIZ powers the exchange of fair value in the Aizzy.ai ec
 # <a id="supply"></a>$AIZ Token Supply
 A comprehensive breakdown of the AIZ token supply, emissions, and distribution.
 
-> Fixed Total Supply: 1,000,000,000
-
-The Supply of AIZ is fixed. Once the total Supply of 1,000,000,000 AIZ tokens have been minted, no more tokens will be introduced to the supply.
+> Fixed Total Supply: TDB
 
 **AIZ Token Allocation**
 
-> 80% of total Supply is allocated to the community, ensuring a truly decentralized and fair AI Ecosystem.
+> 97% of total Supply is allocated to the community, ensuring a truly decentralized and fair AI Ecosystem.
+> 2% of total Supply is allocated to Aizzy as a company.
+> 1% of total Supply is allocated to the founders.
