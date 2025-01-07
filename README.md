@@ -68,10 +68,10 @@ For more details on how AIZ powers the exchange of fair value in the Aizzy.ai ec
 # <a id="supply"></a>$AIZ Token Supply
 A comprehensive breakdown of the AIZ token supply, emissions, and distribution.
 
-> Fixed Total Supply: TDB
+> Fixed Total Supply: 1Bi
 
 **AIZ Token Allocation**
 
-> 97% of total Supply is allocated to the community, ensuring a truly decentralized and fair AI Ecosystem.
-> 2% of total Supply is allocated to Aizzy as a company.
-> 1% of total Supply is allocated to the founders.
+> 90% of total Supply is allocated to the community, ensuring a truly decentralized and fair AI Ecosystem.
+> 7% of total Supply is allocated to Aizzy as a company.
+> 3% of total Supply is allocated to the founders.
